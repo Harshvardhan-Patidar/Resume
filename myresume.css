@@ -1,0 +1,20 @@
+body {
+  background-color: rgba(160, 154, 154, 0.811);
+  font-family: Arial, Helvetica, sans-serif;
+  scroll-padding-top: unset;
+  scroll-padding-bottom: unset;
+}
+header {
+  text-align: center;
+}
+.img {
+  border-radius: 50px;
+}
+article {
+  text-align: center;
+}
+.border {
+  border: 5px dotted blue;
+  max-width: 200px;
+  margin-left: 185px;
+}
